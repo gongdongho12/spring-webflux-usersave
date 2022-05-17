@@ -1,4 +1,4 @@
-package io.storelink.crawler.config
+package com.dongholab.usersave.config
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import org.springframework.beans.factory.annotation.Autowired
